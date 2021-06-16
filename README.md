@@ -12,7 +12,7 @@ I would like to see a list of bookmarks
 
 ## Domain Model
 
-![Bookmark Manager domain model](./public/images/bookmark_manager_1.png)
+![Bookmark Manager domain model](./public/images/bookmark_manager_10.png)
 
 
 ## How to use
@@ -35,7 +35,6 @@ CREATE DATABASE bookmark_manager_test;
 ```
 
 To set up the appropriate tables, connect to each database in `psql` and run the SQL scripts in the `db/migrations` folder in the given order.
-
 
 ### To run the Bookmark Manager app:
 
